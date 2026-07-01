@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aswin Kumar
 
-<h3 align="center">Backend Developer | Golang Developer | Java Developer</h3>
+<h3 align="center">Backend Developer | Golang Developer | Java Developer </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+(Golang)+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL;Always+Learning+System+Design" />
@@ -62,10 +62,6 @@
 <p>
 <img src="https://skillicons.dev/icons?i=go,java"/>
 </p>
-<p>
-<img src="https://skillicons.dev/icons?i=go,Go-lang"/>
-</p>
-
 
 ### Databases
 
@@ -158,16 +154,6 @@
 <p>
 
 <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode"/>
-
-</p>
-
----
-
-# 👀 Profile Visitors
-
-<p align="left">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
