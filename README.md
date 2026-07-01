@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Aswin%20Kumar%20%7C%20Backend%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0B1F3A,100:112240&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Aswin%20Kumar%20%7C%20Backend%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">
