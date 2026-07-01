@@ -156,10 +156,12 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 # 📊 GitHub Statistics
 
 <p align="center">
+  
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aswinkumar-devs&theme=github_dark&utcOffset=5.5"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aswinkumar-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar-devs&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aswinkumar-devs&theme=github_dark"/>
+  
+<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar-devs&theme=tokyonight&hide_border=true"/>
 
 </p>
 
