@@ -99,7 +99,6 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48"/>
-<img src="./assets/antigravity.svg" height="48"/>
 </p>
 
 ---
