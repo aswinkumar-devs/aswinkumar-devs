@@ -76,14 +76,15 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=go,java"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,java,html,css,js,tailwind" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="48" alt="J2EE" title="J2EE" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=go"/>
+<img src="https://skillicons.dev/icons?i=go,java"/>
 </p>
 
 ### Databases
@@ -159,26 +160,6 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aswinkumar-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar-devs&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkumar-devs&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=aswinkumar-devs&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
