@@ -15,7 +15,7 @@ Backend Developer • Golang Developer • Java Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Developer;Go+(Golang)+Developer;Java+Backend+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL;Learning+System+Design+%26+Distributed+Systems"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Developer;Go+(Golang)+Developer;Java+Backend+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL"/>
 </p>
 
 <p align="center">
@@ -27,8 +27,6 @@ Backend Developer • Golang Developer • Java Developer
 <a href="https://aswinkumar-m.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
-
-<img src="https://komarev.com/ghpvc/?username=aswin-kumar-m&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
 
 </p>
 
@@ -158,9 +156,9 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aswin-kumar-m&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aswinkumar-devs&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-kumar-m&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aswinkumar-devs&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -170,7 +168,7 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-kumar-m&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinkumar-devs&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -180,7 +178,7 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aswin-kumar-m&theme=tokyonight&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aswinkumar-devs&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -190,7 +188,7 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-kumar-m&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswinkumar-devs&theme=tokyo-night"/>
 
 </p>
 
