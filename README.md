@@ -1,6 +1,6 @@
 # Hi 👋, I'm Aswin Kumar
 
-<h3 align="center">Backend Developer | Golang Enthusiast | REST API Developer</h3>
+<h3 align="center">Backend Developer | Golang Developer | Java Developer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+(Golang)+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL;Always+Learning+System+Design" />
@@ -14,16 +14,26 @@
 * Passionate about scalable backend architectures
 * Experienced with REST APIs, Authentication & Database Design
 * Love optimizing APIs for high performance
-* Currently learning **System Design**, **Distributed Systems**, and **Performance Engineering**
+* Backend Developer focused on building scalable APIs, robust backend systems, and efficient database architectures.
 
 ---
 
-# 🚀 Current Projects
+## ⚙️ Tech Stack
 
-* API Performance Optimization
-* Backend System Design using Golang
-* MongoDB Aggregation Optimization
-* Authentication & Authorization Systems
+### 🧩 Backend 
+- Golang (Gin, GORM) 
+- Java (J2EE, Servlets, JDBC)
+
+### 🗄️ Databases 
+- PostgreSQL
+- MongoDB
+- MySQL
+
+### 🔐 Backend Concepts 
+- REST API Design
+- JWT Authentication & Security
+- Database Design & Normalization
+- Pagination, Filtering & Query Optimization
 
 ---
 
@@ -52,12 +62,10 @@
 <p>
 <img src="https://skillicons.dev/icons?i=go,java"/>
 </p>
-
-### Backend
-
 <p>
-<img src="https://skillicons.dev/icons?i=go,nodejs"/>
+<img src="https://skillicons.dev/icons?i=go,Go-lang"/>
 </p>
+
 
 ### Databases
 
