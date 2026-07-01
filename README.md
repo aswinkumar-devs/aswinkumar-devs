@@ -73,8 +73,8 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode,idea" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse IDE" />
-  <img src="YOUR_ANTIGRAVITY_LOGO_URL" height="48" alt="Antigravity" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse" />
+  <img src="./assets/antigravity.svg" height="48" alt="Antigravity" />
 </p>
 
 ---
@@ -147,16 +147,6 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-</p>
-
----
-
-## 🛠 Tools I Use
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode,idea" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse IDE" />
-  <img src="YOUR_ANTIGRAVITY_LOGO_URL" height="48" alt="Antigravity" />
 </p>
 
 ---
