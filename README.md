@@ -1,45 +1,25 @@
-# Hi 👋, I'm Aswin Kumar
-
-<h3 align="center">Backend Developer | Golang Developer | Java Developer </h3>
+<!-- Banner -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Backend+Developer;Go+(Golang)+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL;Always+Learning+System+Design" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Aswin%20Kumar%20%7C%20Backend%20Developer&descAlignY=58"/>
 </p>
 
----
+<h1 align="center">
+Hi
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+I'm Aswin Kumar
+</h1>
 
-# 💫 About Me
+<h3 align="center">
+Backend Developer • Golang Developer • Java Developer
+</h3>
 
-* Backend Developer specializing in **Go (Golang)**
-* Passionate about scalable backend architectures
-* Experienced with REST APIs, Authentication & Database Design
-* Love optimizing APIs for high performance
-* Backend Developer focused on building scalable APIs, robust backend systems, and efficient database architectures.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1200&color=38BDF8&center=true&vCenter=true&width=850&lines=Backend+Developer;Go+(Golang)+Developer;Java+Backend+Developer;Building+Scalable+REST+APIs;MongoDB+%7C+PostgreSQL+%7C+MySQL;Learning+System+Design+%26+Distributed+Systems"/>
+</p>
 
----
+<p align="center">
 
-## ⚙️ Tech Stack
-
-### 🧩 Backend 
-- Golang (Gin, GORM) 
-- Java (J2EE, Servlets, JDBC)
-
-### 🗄️ Databases 
-- PostgreSQL
-- MongoDB
-- MySQL
-
-### 🔐 Backend Concepts 
-- REST API Design
-- JWT Authentication & Security
-- Database Design & Normalization
-- Pagination, Filtering & Query Optimization
-
----
-
-# 🌐 Connect with Me
-
-<p align="left">
 <a href="https://www.linkedin.com/in/aswin-kumar-backend-developer">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
@@ -48,10 +28,49 @@
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=aswin-kumar-m&label=Profile%20Views&style=for-the-badge&color=0e75b6"/>
+
 </p>
+
+---
+
+# 💫 About Me
+
+<table>
+<tr>
+
+<td width="65%">
+
+### 👨‍💻 Backend Developer
+
+I'm a Backend Developer with a strong focus on building scalable, secure, and high-performance backend systems.
+
+### 🚀 What I Do
+
+- Build RESTful APIs using Go (Gin & GORM)
+- Develop Java backend applications
+- Design efficient PostgreSQL & MongoDB databases
+- Optimize API performance and database queries
+- Implement authentication and authorization
+- Write clean, maintainable backend code
+
+### 🌱 Currently Learning
+
+- System Design
+- Distributed Systems
+- Microservices
+- Performance Optimization
+
+</td>
+
+<td>
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280"/>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -63,19 +82,36 @@
 <img src="https://skillicons.dev/icons?i=go,java"/>
 </p>
 
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=go"/>
+</p>
+
 ### Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-## 🛠 Tools
+### Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode,idea" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse" />
-  <img src="./assets/antigravity.svg" height="48" alt="Antigravity" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48"/>
+<img src="./assets/antigravity.svg" height="48"/>
 </p>
+
+---
+
+# 🚀 Current Focus
+
+- Building scalable Go backend systems
+- API Performance Optimization
+- MongoDB Aggregation Pipelines
+- Authentication & Authorization
+- Clean Architecture
+- System Design
 
 ---
 
@@ -83,39 +119,49 @@
 
 ## 🏦 Banking Management System
 
-* JSP
-* Servlets
-* JDBC
-* MySQL
-* Transaction Management
+✔ JSP
+
+✔ Servlets
+
+✔ JDBC
+
+✔ MySQL
+
+✔ Transaction Management
 
 ---
 
 ## 🔐 Game-Based CAPTCHA
 
-* Java
-* Security
-* Interactive CAPTCHA
-* Better User Experience
+✔ Java
+
+✔ Interactive CAPTCHA
+
+✔ Security
+
+✔ Improved User Experience
 
 ---
 
 ## 🤖 AI Assistant
 
-* Flask
-* Python
-* WolframAlpha API
-* Voice Commands
+✔ Python
+
+✔ Flask
+
+✔ WolframAlpha API
+
+✔ Voice Commands
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aswin-kumar-m&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aswin-kumar-m&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -125,17 +171,17 @@
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswin-kumar-m&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=aswin-kumar-m&theme=tokyonight&margin-w=15&margin-h=15"/>
 
 </p>
 
@@ -145,14 +191,36 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aswin-kumar-m&theme=tokyo-night"/>
 
 </p>
 
 ---
 
-# ✨ Quote
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aswin-kumar-backend-developer">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://aswinkumar-m.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
 
 > "First, solve the problem. Then, write the code."
 
-— John Johnson
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
+
+</p>
