@@ -69,10 +69,12 @@
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-### Tools
+## 🛠 Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,vscode"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode,idea" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse IDE" />
+  <img src="YOUR_ANTIGRAVITY_LOGO_URL" height="48" alt="Antigravity" />
 </p>
 
 ---
@@ -149,12 +151,12 @@
 
 ---
 
-# 🛠 Tools I Use
+## 🛠 Tools I Use
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,git,github,docker,linux,mongodb,postgres,mysql,postman,vscode,idea" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="48" alt="Eclipse IDE" />
+  <img src="YOUR_ANTIGRAVITY_LOGO_URL" height="48" alt="Antigravity" />
 </p>
 
 ---
