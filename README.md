@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:020617,50:0B1F3A,100:112240&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Aswin%20Kumar%20%7C%20Backend%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:001F54,50:003B8E,100:0059D6&text=Welcome%20to%20My%20GitHub&fontColor=ffffff&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Aswin%20Kumar%20%7C%20Backend%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">
@@ -198,7 +198,5 @@ I'm a Backend Developer with a strong focus on building scalable, secure, and hi
 ---
 
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,100:0F2027"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:001F54,50:003B8E,100:0059D6"/>
 </p>
